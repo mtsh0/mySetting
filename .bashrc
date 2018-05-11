@@ -15,6 +15,7 @@ alias gitd='git diff'
 alias gitco='git checkout'
 alias gitcp='git cherry-pick'
 alias gitf='git fetch'
+#https://qiita.com/NorsteinBekkler/items/b2418cd5e14a52189d19
 alias gitfirst='git commit --allow-empty -m'
 alias gitg='git-foresta'
 alias gitl='git log'
